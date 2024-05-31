@@ -7,7 +7,7 @@
     <title>Home</title>
 </head>
 <body>
-    <main className="xl (1280px)">
+    <main className="md (768px)">
     <div className="Btn-blue">
         <a href ='' name='EnterPortfolio'>Enter Portfolio</a>
     </div>
